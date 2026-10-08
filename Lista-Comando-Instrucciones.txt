@@ -1,0 +1,4 @@
+Compilar 
+
+	gcc -Wall -Wextra 01_hola.c -o 01_hola.exe
+	gcc -Wall -Wextra 02_variables.c  -o 02_variables.exe
